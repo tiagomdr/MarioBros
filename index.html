@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br"> <!-- Site-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Mario encanador</title>
+</head> <!--Cabeça do site-->
+
+<body>
+
+    <div class="mascara-formulario" onclick="desaparecer()"></div>
+
+    
+        <header>
+            <img src="img/icon.png" alt="Icone mario" class="icone-mario">
+            <a href="">Home</a>
+            <a href="">Fale Conosco</a>
+            <a onclick="mostrarFormulario()">Nossos Serviços</a>
+        </header>
+
+    <div class="caixa-mae">
+
+        <div class="caixa-principal"> <!--Caixa 1-->
+            <img src="img/logo (1).png" alt="Logo do marios bros" class="logo-mario">
+            <p> Encanadores Mario & Luigi - Resolvemos seus problemas com Estilo!"</p>
+            <p>Você se encontra em uma situação de emergência com encanamento? Vazamantos inesperados, canos entupidos
+                ou
+                torneiras que não param de pingar? Não se preocupe, porque estamos aqui para salvar o dia! Apresentamos
+                a
+                vocês
+                os encanadores mais famosos do Reino dos Cogumelos, Mario e Luigi!.</p>
+
+            <button onclick="contato()">Entre em contato</button>
+        </div>
+
+        <div> <!--Caixa 2-->
+            <img src="img/mario.png" alt="Imagem do mario do luide" class="imagem-MarioeLuide">
+        </div>
+
+    </div>
+
+
+    <div class="caixa-video">
+        <video src="videos/video.mp4" autoplay muted loop></video>
+        <div class="mascara"> </div>
+    </div>
+
+    <a href="https://wa.me/5553997098651?text=Ol%C3%A1%20Tiago%2C%20Quero%20saber%20or%C3%A7amento%20para%20voc%C3%AA%20criar%20uma%20landing%20page%3F"
+        target="_blank">
+        <img src="img/whatsapp.png" alt="Logo whatsapp" class="logo-whatsapp">
+    </a>
+
+
+    <form class="formulario" id="formulario" action="https://formcarry.com/s/_XxE3kz_2Sy" method="POST" enctype="multipart/form-data">
+
+        <input type="text" placeholder="Seu nome" name="nome" autocomplete="off" autofocus>
+        <input type="tel" placeholder="Seu telefone" name="telefone" autocomplete="off">
+        <textarea placeholder="O que eu posso ajudar?" name="duvidas"></textarea>
+        <button type="submit" id="button-form">Pedir orçamento</button>
+    </form>
+
+    <script src="script.js"></script>
+</body> <!--Corpo do site-->
+
+</html>
