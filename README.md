@@ -15,5 +15,4 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-JavaScript">
 
   <h2>Versoões Desktop / Mobile</h2>
-<p> <img src="https://github.com/tiagomdr/Responsividade/blob/main/img/desktop.png?raw=true" width="400px" style="display-inline-block">                          
-    <img src="https://github.com/tiagomdr/Responsividade/blob/main/img/mobile.png?raw=true" height="300px" style="display-inline-block"> </p>
+<p> <img src="[https://github.com/tiagomdr/Responsividade/blob/main/img/desktop.png?raw=true](https://github.com/tiagomdr/Projeto-Mario/blob/master/img/mario_e_loide.png)" width="400px" style="display-inline-block"> </p>
