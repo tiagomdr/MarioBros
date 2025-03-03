@@ -1,5 +1,4 @@
-<h1>Mario e Loide </h1>
-<br>
+<h1>Mario e Loide <img src=""> </h1>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <P>Você se encontra em uma situação de emergência com encanamento? Vazamantos inesperados, canos entupidos
