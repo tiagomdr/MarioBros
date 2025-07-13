@@ -18,5 +18,5 @@
   <img width="12" />
 </div>
 
-  <h2 align="center">Versões Mobile / Desktop </h2>
-<p align="center"> <img src="https://github.com/tiagomdr/Projeto-Mario/blob/master/img/mario_e_loide.png?raw=true" width="400px" style="display-inline-block"> </p>
+  <h2>Versões Mobile / Desktop </h2>
+<p > <img src="https://github.com/tiagomdr/Projeto-Mario/blob/master/img/mario_e_loide.png?raw=true" width="400px" style="display-inline-block"> </p>
