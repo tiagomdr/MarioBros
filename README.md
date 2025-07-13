@@ -7,14 +7,10 @@
                 a
                 vocês
                 os encanadores mais famosos do Reino dos Cogumelos, Mario e Luigi!.</P>
-<h2>Tecnologias utilizadas:</h2>             
+<h2 align="center">Tecnologias utilizadas:</h2>             
 <br>   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -22,5 +18,5 @@
   <img width="12" />
 </div>
 
-  <h2>Versões Mobile / Desktop </h2>
-<p> <img src="https://github.com/tiagomdr/Projeto-Mario/blob/master/img/mario_e_loide.png?raw=true" width="400px" style="display-inline-block"> </p>
+  <h2 align="center">Versões Mobile / Desktop </h2>
+<p align="center"> <img src="https://github.com/tiagomdr/Projeto-Mario/blob/master/img/mario_e_loide.png?raw=true" width="400px" style="display-inline-block"> </p>
