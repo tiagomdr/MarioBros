@@ -7,7 +7,7 @@
                 a
                 vocês
                 os encanadores mais famosos do Reino dos Cogumelos, Mario e Luigi!.</P>
-<h2 align="center">Tecnologias utilizadas:</h2>             
+<h2 align="center">🧑‍💻 Tecnologias utilizadas:</h2>             
 <br>   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
