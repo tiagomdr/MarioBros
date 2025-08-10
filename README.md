@@ -20,6 +20,7 @@ Não se preocupe! Os encanadores mais famosos do Reino dos Cogumelos — **Mario
 - Dicas rápidas para problemas comuns de encanamento  
 - Botões interativos com animações suaves
 
-  
+  ## 📷 Prévia do Projeto
+<img src="[https://github.com/tiagomdr/Draw/blob/main/assets/img-sorteador.png?raw=true](https://github.com/tiagomdr/MarioBros/blob/master/img/mario_e_loide.png?raw=true)" alt="Previa do projeto">
 
 ---
