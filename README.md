@@ -18,5 +18,8 @@ Não se preocupe! Os encanadores mais famosos do Reino dos Cogumelos — **Mario
 - Apresentação animada dos personagens Mario e Luigi  
 - Layout responsivo para todos dispositivos  
 - Dicas rápidas para problemas comuns de encanamento  
-- Botões interativos com animações suaves  
+- Botões interativos com animações suaves
 
+  
+
+---
