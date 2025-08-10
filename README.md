@@ -1,4 +1,4 @@
-# <img src="https://github.com/tiagomdr/MarioBros/blob/master/img/icon.png?raw=true">Encanadores do Reino dos Cogumelos — Mario & Luigi
+# <img src="https://github.com/tiagomdr/MarioBros/blob/master/img/icon.png?raw=true" width="20px">Encanadores do Reino dos Cogumelos — Mario & Luigi
 
 Você está enfrentando uma emergência com encanamento? Vazamentos inesperados, canos entupidos ou torneiras que não param de pingar?  
 Não se preocupe! Os encanadores mais famosos do Reino dos Cogumelos — **Mario e Luigi** — estão aqui para salvar o seu dia!
