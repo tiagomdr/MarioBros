@@ -9,7 +9,7 @@ Não se preocupe! Os encanadores mais famosos do Reino dos Cogumelos — **Mario
 
 - ✅ **HTML5** — Estrutura e semântica da página  
 - 🎨 **CSS3** — Estilização, responsividade e animações  
-- ⚙️ **JavaScript (Vanilla)** — Interatividade e manipulação do DOM  
+- ⚙️ **JavaScript** — Interatividade e manipulação do DOM  
 
 ---
 
