@@ -1,4 +1,4 @@
- <img src="https://github.com/tiagomdr/MarioBros/blob/master/img/icon.png?raw=true" width="50px">Mario & Luigi
+<h1> <img src="https://github.com/tiagomdr/MarioBros/blob/master/img/icon.png?raw=true" width="50px">Mario & Luigi</h1>
 
 <h2>Encanadores do Reino dos Cogumelos </h2>
 
