@@ -23,6 +23,7 @@ Não se preocupe! Os encanadores mais famosos do Reino dos Cogumelos — **Mario
 - Botões interativos com animações suaves
 
   ## 📷 Prévia do Projeto
+  - Delopy do Projeto https://tiagomdr.github.io/MarioBros/
 <img src="https://github.com/tiagomdr/MarioBros/blob/master/img/mario_e_loide.png?raw=true" alt="Previa do projeto">
 
 ---
